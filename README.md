@@ -1,4 +1,4 @@
-Download all papers in cvpr access
+Download all papers in cvpr access. It can be applied to all CVPR.
 
 # Dependencies
     
@@ -7,7 +7,7 @@ Download all papers in cvpr access
 
 # Set up
 
-    git clone
+    git clone git@github.com:nutszebra/cvpr2017.git
     cd cvpr2017
     git submodule init
     git submodule update
